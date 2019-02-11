@@ -15,4 +15,4 @@ def my_all?(collection)
   end
 end
 
-my_all?(array) {|index| index < 2}
+my_all?(index) {|index| index < 2}
