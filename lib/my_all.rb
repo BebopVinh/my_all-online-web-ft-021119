@@ -15,6 +15,3 @@ def my_all?(collection)
   end
 end
 
-my_all?(index) do |index|
-  index < 2
-end
